@@ -1,25 +1,25 @@
-# 🌦️ Weather App - OpenWeatherMap
+# 🌤️ Live Weather Checker
 
-A simple, responsive weather application built with **HTML**, **CSS**, **jQuery**, and **AJAX** to fetch real-time weather data using the **OpenWeatherMap API**.
+A clean and responsive weather app that lets users check real-time weather information for any city using the **OpenWeatherMap API**, built with **HTML**, **CSS**, **jQuery**, and **AJAX**.
 
 ## 🔗 Live Demo
-👉 [Click here to view the app](https://bhumika-mehta8287.github.io/weather-app-openweathermap/)
+👉 [https://bhumika-mehta8287.github.io/live-weather-checker/](https://bhumika-mehta8287.github.io/live-weather-checker/)
 
 ## 🚀 Features
-- Search current weather by city name 🌍
-- Live temperature, weather description, humidity & wind speed
-- AJAX integration with OpenWeatherMap API
-- Responsive, minimal UI
-- Error handling for invalid cities
+- 🌍 Search weather by city name
+- 📡 Real-time temperature, description, humidity, and wind
+- 🔄 AJAX-powered API integration
+- 📱 Fully responsive UI design
+- ❌ Error handling for incorrect cities
 
-## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
+## 🧰 Technologies Used
+- HTML5
+- CSS3
 - JavaScript (jQuery)
 - AJAX
-- [OpenWeatherMap API](https://openweathermap.org/api)
+- OpenWeatherMap API
 
-## 🔧 How to Use
-1. Clone the repository:
+## 📦 How to Use
+1. Clone this repository:
    ```bash
-   git clone https://github.com/Bhumika-Mehta8287/weather-app-openweathermap.git
+   git clone https://github.com/Bhumika-Mehta8287/live-weather-checker.git
